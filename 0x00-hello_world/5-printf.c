@@ -1,5 +1,4 @@
 #include <stdio.h>
-int main(void)                                                                                                                          
 /**
  *
  * main - print the string in the put function
@@ -11,8 +10,7 @@ int main(void)
  * this program prints "Programming is like building a multilingual puzzle
  *
  * Return: 0
- *
- * */
+ */
 
 int main(void)
 
