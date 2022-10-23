@@ -9,7 +9,7 @@ int main(void)
 {
 	int c;
 
-	for (c = 28; c <= 37; c++)
+	for (c = 10; c <= 11; c++)
 	{
 		putchar(c);
 		if (c != 37)
