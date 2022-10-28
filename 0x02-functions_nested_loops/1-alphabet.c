@@ -4,14 +4,13 @@
 * Return: returns 0 if successful
 */
 
-void  print_alphabet(void)
+void print_alphabet(void)
 {
-char alphabet = 'a';
+int m;
 
-while (alphabet <= 'z')
+for (a = 'a'; m<= 'z'; m++)
 {
-_putchar(alphabet);
-alphabet++;
+_putchar(m);
 }											}
 _putchar('\n');
 }
