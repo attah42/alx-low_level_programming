@@ -7,12 +7,12 @@
 int  _islower(int alpha)
 
 {
-if (alpha >= 'a' && alpha  <= 'z')
+	if (alpha >= 'a' && alpha  <= 'z')
 	{
-return (1);	  
+		return (1);
 	}
-else
+	else
 	{
-	return (0);
-} 
-}     
+		return (0);
+	}
+}
